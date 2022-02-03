@@ -1,0 +1,24 @@
+{
+  "name": "learning-threejs",
+  "version": "1.0.0",
+  "description": "learning-threejs\r ================",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josdirksen/learning-threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josdirksen/learning-threejs/issues"
+  },
+  "homepage": "https://github.com/josdirksen/learning-threejs#readme"
+}

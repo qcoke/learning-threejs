@@ -240,13 +240,10 @@
 
         function render() {
             stats.update();
-
-            //sphere.rotation.y=step+=0.01;
             var delta = clock.getDelta();
             orbitControls.update(delta);
 
             sphere.rotation.y += 0.002;
-
             // render using requestAnimationFrame
             requestAnimationFrame(render);
 
